@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "779216948735",
+    "project_id": "shebabondhu-a3350",
+    "storage_bucket": "shebabondhu-a3350.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779216948735:android:4450bc1429b6db9e8b2bca",
+        "android_client_info": {
+          "package_name": "com.shebabondhu.sheba_bondhu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChWVQ5J2h-3_-N7WVQZfaGR4nd5hgyXqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
