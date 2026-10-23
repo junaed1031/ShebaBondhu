@@ -1,0 +1,15 @@
+{
+  "@@locale": "en",
+  "appName": "ShebaBondhu",
+  "@appName": {
+    "description": "Application title"
+  },
+  "welcome": "Welcome to ShebaBondhu",
+  "@welcome": {
+    "description": "Welcome message displayed on the home screen"
+  },
+  "checkBackend": "Check backend",
+  "@checkBackend": {
+    "description": "Button text to check backend health status"
+  }
+}
